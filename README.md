@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @7z1m15c3
-- 👀 I’m interested in fidhing
-- 🌱 I’m currently learning ORB_SLAM
-- 💞️ I’m looking to collaborate on 3D modeling
+- 👀 I’m interested in fishing
+- 🌱 I’m currently learning NLP/HRI
+- 💞️ I’m looking to collaborate on HRI
 - 📫 How to reach me Sorry, no way.
 
 <!---
